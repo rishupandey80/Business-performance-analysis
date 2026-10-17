@@ -11,7 +11,16 @@ This end-to-end Data Analytics project uses Python/Jupyter Notebook and Power BI
 ## Dashboard Pages
 1. **Sales, Inventory & Profitability Insights** — vendor KPIs, top vendors by sales/gross profit, performance-category sales, and sales-versus-profit comparisons.
 2. **Product and Pricing Analysis** — product sales and gross profit leaders, performance-category split, and selling-versus-purchase-price comparison.
-3. **Inventory Analysis** — beginning/ending stock, inventory value, inventory value change, stock movement status, and city/product inventory views.
+3. **Inventory Analysis** — beginning/ending stock, inventory value, inventory value change, stock movement status, and city/product inventory views.`## Dashboard Preview
+
+### 1. Sales, Inventory & Profitability Insights
+![Sales Dashboard](vendor-overview.png)
+
+### 2. Product and Pricing Analysis
+![Product Pricing Dashboard](product-pricing.png)
+
+### 3. Inventory Analysis
+![Inventory Dashboard](inventory-analysis.png)`
 
 ## Tech Stack
 - **Python:** Pandas, NumPy, os
